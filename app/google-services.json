@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754339400966",
+    "project_id": "guessdice-b0f9a",
+    "storage_bucket": "guessdice-b0f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754339400966:android:5e6a501d37422dc71ae287",
+        "android_client_info": {
+          "package_name": "com.example.guessdice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh3bK4i6Aj-Mn52MmDsvGYR3EgZcvyxXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
